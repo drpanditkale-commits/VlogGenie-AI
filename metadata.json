@@ -1,0 +1,9 @@
+{
+  "name": "VlogGenie AI",
+  "description": "Transform your videos into blog-ready content with AI-powered summaries, catchy titles, and structured chapters.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
